@@ -7,8 +7,9 @@
 <img align="left" alt="Siddhant Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.codementor.io/@siddhantsingh">
-<img align="left" alt="Siddhant Singh | Codementor" width="22px" src="https://pbs.twimg.com/profile_images/1217006490529091585/Co2WvpK9.jpg" />
+[![Contact me on Codementor](https://www.codementor.io/m-badges/siddhantsingh/im-a-cm-b.svg)](https://www.codementor.io/@siddhantsingh?refer=badge)
 </a>
+
 <a href="https://www.facebook.com/sid10on10">
 <img align="left" alt="Siddhant Singh | Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" />
 </a><br>
