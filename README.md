@@ -9,9 +9,7 @@
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/siddhantsingh/find-me-on-cm-b.svg)](https://www.codementor.io/@siddhantsingh?refer=badge)
 
-<a href="https://www.facebook.com/sid10on10">
-<img align="left" alt="Siddhant Singh | Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" />
-</a><br>
+<br>
 
 ---
 
