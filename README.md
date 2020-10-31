@@ -8,9 +8,6 @@
 </a>
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/siddhantsingh/find-me-on-cm-b.svg)](https://www.codementor.io/@siddhantsingh?refer=badge)
-
-<br>
-
 ---
 
 <img align="left" alt="Siddhant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sid10on10&show_icons=true&hide_border=true&theme=dracula&hide=stars,issues"/>
