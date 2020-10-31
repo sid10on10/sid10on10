@@ -3,11 +3,9 @@
 ### 5-Star Mentor at Codementor, IIT-BHU
 ### Python-Django & MERN Full-Stack Developer
 
-<a href="https://www.linkedin.com/in/sid10on10/">
-<img align="left" alt="Siddhant Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 [![Contact me on Codementor](https://www.codementor.io/m-badges/siddhantsingh/find-me-on-cm-b.svg)](https://www.codementor.io/@siddhantsingh?refer=badge)
+
+[![Contact me on Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid10on10/)
 ---
 
 <img align="left" alt="Siddhant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sid10on10&show_icons=true&hide_border=true&theme=dracula&hide=stars,issues"/>
