@@ -17,10 +17,8 @@
 
 
 
-**sid10on10/sid10on10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<!--**sid10on10/sid10on10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<br>
 - 🔭 I’m currently working on Steve AI
 
 - 🌱 I’m currently learning Angular
