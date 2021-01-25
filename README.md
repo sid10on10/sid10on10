@@ -14,17 +14,3 @@
 <br>
 <br>
 
-
-
-
-<!--**sid10on10/sid10on10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<br>
-- 🔭 I’m currently working on Steve AI
-
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on Django
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Django MERN
-- 📫 How to reach me: You can't
-- ⚡ Fun fact: About me
-
