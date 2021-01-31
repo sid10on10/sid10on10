@@ -4,8 +4,6 @@
 ### Python-Django & MERN Full-Stack Developer
 ### Full Stack Developer at Animaker
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/siddhantsingh/find-me-on-cm-b.svg)](https://www.codementor.io/@siddhantsingh?refer=badge)
-
 [![Contact me on Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid10on10/)
 ---
 
