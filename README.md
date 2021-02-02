@@ -1,6 +1,6 @@
 ## Hi, I'm Siddhant
 
-### 5-Star Mentor at Codementor, IIT-BHU
+### IIT-BHU
 ### Python-Django & MERN
 ### Full Stack Developer at Animaker
 
