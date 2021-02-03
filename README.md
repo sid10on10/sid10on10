@@ -9,6 +9,7 @@
 
 <img align="left" alt="Siddhant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sid10on10&show_icons=true&hide_border=true&theme=dracula&hide=stars,issues"/>
 <br>
+<br>
 <img align="left" alt="Siddhant's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid10on10&layout=compact" />
 <br>
 <br>
