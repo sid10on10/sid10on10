@@ -1,6 +1,6 @@
 ## Hi, I'm Siddhant
 
-### IIT-BHU
+### IIT-BHU IDD
 ### Python-Django & MERN
 ### Full Stack Developer
 
