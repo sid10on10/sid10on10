@@ -1,7 +1,8 @@
 ## Hi, I'm Siddhant
 
 ### IIT-BHU
-### Python-Django & MERN
+### Python & JS
+### Django & MERN
 ### Full-Stack Developer @ Animaker
 
 [![Contact me on Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid10on10/)
