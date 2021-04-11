@@ -1,4 +1,4 @@
-## Hi, I'm Siddhant
+## Hi, I'm Siddhant Singh
 
 ### IIT-BHU
 ### Python & JS
