@@ -3,7 +3,7 @@
 ### IIT-BHU
 ### Python & JS
 ### Django & MERN
-### Softwarre Developer @ Basepairtech
+### Software Developer @ Basepairtech
 
 
 
