@@ -3,7 +3,7 @@
 ### IIT-BHU
 ### Python & JS
 ### Django & MERN
-### Software Developer @ Basepairtech
+### Software Developer @ Botpresso
 
 
 
