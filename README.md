@@ -2,7 +2,6 @@
 
 ### IIT-BHU
 ### Python & JS
-### Django & MERN
 ### Software Developer @ Botpresso
 
 
