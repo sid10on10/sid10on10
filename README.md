@@ -2,7 +2,7 @@
 
 ### IIT-BHU
 ### Python & JS
-### Software Developer @ Botpresso
+### Senior Software Developer @ EssentiallySports
 
 
 
